@@ -1,7 +1,7 @@
 # PingenBot
 
 # How to use
-Before you install this extension, make sure that you have [Git](https://git-scm.io/downloads) installed.
+Before you install this extension, make sure that you have [Git](https://git-scm.com/downloads) installed.
 
 In a console, do ```git clone https://github.com/slipdawg/PingenBot.git SaltyBetBot-master```
 
